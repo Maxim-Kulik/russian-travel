@@ -97,8 +97,3 @@
   src: local('Inter') ,
   url(../fonts/Inter-Regular.otf);
   }
-  * {
-      outline: 1px solid red;
-  }
-
-  
