@@ -12,22 +12,22 @@
 }
 @media (max-width:1024px) {
 .cover__subtitle {
-    bottom: 195px ;
+  bottom: 195px;
     left: 332px;
   }
 }
 @media (max-width:768px) {
 .cover__subtitle {
-    bottom: 115px ;
-    left: 204px;
+  bottom: 115px ;
+  left: 204px
   }
 }
 @media (max-width:320px) {
 .cover__subtitle {
-    max-width: 288px;
-    bottom: 33px ;
-    left: 16px;
-    font-size: 14px;
-    line-height: 16px;
+  max-width: 288px;
+  bottom: 33px ;
+  left: 16px;
+  font-size: 14px;
+  line-height: 16px;
   }
 }
