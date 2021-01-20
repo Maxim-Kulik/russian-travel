@@ -6,6 +6,7 @@
   grid-template-rows: repeat(6, min-content);
   margin-inline: auto;
   column-gap:40px;
+  min-width:min-content;
   }
 .place:last-child {
   margin-bottom: 0;
