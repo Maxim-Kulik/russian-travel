@@ -6,10 +6,6 @@
   color: white;
   text-decoration: none;
   margin-right: 18px;
-  margin-left:0;
-}
-.header__lang-link:first-child {
-  margin-left:auto;
 }
 .header__lang-link:last-child{
   margin-right: 0px;
