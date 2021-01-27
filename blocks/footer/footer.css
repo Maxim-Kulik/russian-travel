@@ -1,16 +1,16 @@
 .footer {
   margin-top: 92px;
   margin-bottom: 24px;
-  margin-left: 48px;
-  margin-right: 48px;
+  padding-left: 48px;
+  padding-right: 48px;
   max-width: 1184px;
   display: flex;
 }
 @media (max-width:768px) {
 .footer {
     max-width: 720px;
-    margin-left: 24px;
-    margin-right: 24px;
+    padding-left: 24px;
+    padding-right: 24px;
     margin-top:88px;
   }
 }
@@ -18,7 +18,7 @@
 .footer {
     max-width: min-content;
     margin-top: 64px;
-    margin-left:16px;
+    padding-left:16px;
     flex-direction: column;
   }
 }
