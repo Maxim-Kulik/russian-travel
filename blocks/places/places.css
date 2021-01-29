@@ -2,15 +2,22 @@
   margin-left: auto;
   margin-right: auto;
   margin-top:92px;
-  max-width:min-content;
+  max-width: 984px;
+}
+@media (max-width:1050px) {
+.places {
+    max-width:928px;
+    }
 }
 @media (max-width:1015px) {
 .places {
     margin-top:88px;
+    max-width:720px;
     }
 }
 @media (max-width:760px) {
 .places {
     margin-top:64px;
+    max-width:320px;
   }
 }
